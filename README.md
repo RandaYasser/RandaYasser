@@ -4,7 +4,7 @@
 ## About Me
 
 - 👩🏻‍💻 I am a passionate problem solver with a background in **Cloud Technical Support** transitioning into **Data Engineering**.
-- 💻 Currently learning **Data Engineering Tools**, **Japanese**, and **Technical Writing**.
+- 💻 Currently learning **Data Engineering**, **Japanese**, and **Technical Writing**.
 - 🐱‍👓 **Cat** Lover | **Tea** Addict | Night Owl
 
 ## Languages and Tools: 
