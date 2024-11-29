@@ -1,5 +1,5 @@
 
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />Hey, I'm Randa</h3>
+<h3>Hey, I'm Randa <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /></h3>
 
 ## About Me
 
